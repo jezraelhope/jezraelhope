@@ -10,8 +10,6 @@
  I love discovering gems of knowledge as I continue to build different projects. The wealth of information is so vast, it gets me excited everytime!
 
 ### Connect with me 🤝
-
-twitter: jezraelhope
 instagram: h0piii
 
 ### I'm currently working on:
