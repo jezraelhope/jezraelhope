@@ -1,11 +1,30 @@
-### Hi I am Hope 👋
 
-<!--
-I am a self-taught front-end developer based Chicago.
+<h3 align="center">
+  Hi there, I'm Hope 👋
+ </h3>
+ 
+ <h2 align="center">
+  I am a self-taught front-end developer!
+ </h2>
+ 
+ I love discovering gems of knowledgeas I continue to build different projects. The wealth of information is so vast, it gets me excited everytime!
 
-I am currently polishing my CSS skills, one project at a time.
+### Connect with me 🤝
 
-I am currently working on my e-commerce website while trying to finish LOTR.
+twitter: jezraelhope
+instagram: h0piii
 
-Reach me on twitter: @jezraelhope
--->
+### I'm currently working on:
+
+pre-loved apparel website
+
+### Techincal Skills:
+
+React: 2/5
+JavaScript: 2/5
+CSS: 3/5
+HTML: 3/5
+
+###Currently Reading:
+
+LOTR
