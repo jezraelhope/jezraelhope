@@ -7,7 +7,7 @@
   I am a self-taught front-end developer!
  </h2>
  
- I love discovering gems of knowledgeas I continue to build different projects. The wealth of information is so vast, it gets me excited everytime!
+ I love discovering gems of knowledge as I continue to build different projects. The wealth of information is so vast, it gets me excited everytime!
 
 ### Connect with me 🤝
 
