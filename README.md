@@ -20,11 +20,11 @@ pre-loved apparel website
 
 ### Techincal Skills:
 
-React: 2/5
-JavaScript: 2/5
-CSS: 3/5
-HTML: 3/5
+React: 2/5 </br>
+JavaScript: 2/5 </br>
+CSS: 3/5 </br>
+HTML: 3/5 </br>
 
-###Currently Reading:
+### Currently Reading:
 
 LOTR
