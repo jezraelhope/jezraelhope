@@ -16,7 +16,7 @@ pre-loved apparel website
 
 ### Techincal Skills:
 
-React: 2/5 </br>
+React: 1/5 </br>
 JavaScript: 2/5 </br>
 CSS: 3/5 </br>
 HTML: 3/5 </br>
