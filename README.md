@@ -12,7 +12,7 @@
 
 ### I'm currently working on:
 
-pre-loved apparel website
+Portfolio Site!!!
 
 ### Techincal Skills:
 
