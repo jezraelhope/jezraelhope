@@ -12,7 +12,7 @@
 
 ## I'm currently working on:
 
-Portfolio Site!!!
+My Portfolio Site!!!
 
 ## Techincal Skills:
 
