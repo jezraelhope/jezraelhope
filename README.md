@@ -12,7 +12,7 @@
 
 ## I'm currently working on:
 
-My Portfolio Site!!!
+Yelp Clone App
 
 ## Techincal Skills:
 
