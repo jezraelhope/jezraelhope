@@ -1,10 +1,10 @@
 
-<h3 align="center">
+<h1 align="center">
   Hi there, I'm Hope 👋
- </h3>
+ </h1>
  
  <h2 align="center">
-  I am a self-taught front-end developer!
+  I am a self-taught web developer!
  </h2>
  
  I love discovering gems of knowledge as I continue to build different projects. The wealth of information is so vast, it gets me excited everytime!
