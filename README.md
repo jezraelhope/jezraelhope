@@ -12,7 +12,7 @@
 
 ## I'm currently working on:
 
-Yelp Clone App
+Wheel Strategy Dashboard
 
 ## Techincal Skills:
 
