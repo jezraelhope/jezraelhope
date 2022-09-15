@@ -16,7 +16,8 @@ Wheel Strategy Dashboard
 
 ## Techincal Skills:
 
-Express: 2/5 </br>
+Node: 2/5 </br>
+MongoDB: 2/5 </br>
 React: 3/5 </br>
 JavaScript: 3/5 </br>
 CSS: 3/5 </br>
