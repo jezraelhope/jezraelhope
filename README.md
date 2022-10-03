@@ -24,4 +24,4 @@ HTML: 4/5 </br>
 
 ## Currently Reading:
 
-The Fountainhead
+The Two Towers
