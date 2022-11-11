@@ -12,7 +12,7 @@
 
 ## I'm currently working on:
 
-Wheel Strategy Dashboard
+[frontendmentor.io](frontendmentor.io) mini projects
 
 ## Techincal Skills:
 
