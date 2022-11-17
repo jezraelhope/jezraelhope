@@ -24,4 +24,4 @@ HTML: 4/5 </br>
 
 ## Currently Reading:
 
-The Two Towers
+Can't Hurt Me
