@@ -24,4 +24,4 @@ HTML: 4/5 </br>
 
 ## Currently Reading:
 
-Can't Hurt Me
+The Silmarillon
