@@ -17,6 +17,6 @@
 ## Techincal Skills:
 
 React: 3/5 </br>
-JavaScript: 3/5 </br>
-CSS: 3/5 </br>
+JavaScript: 3.5/5 </br>
+CSS: 4/5 </br>
 HTML: 4/5 </br>
