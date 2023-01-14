@@ -12,7 +12,7 @@
 
 ## I'm currently working on:
 
-[frontendmentor.io](frontendmentor.io) mini projects
+existing projects' responsiveness
 
 ## Techincal Skills:
 
