@@ -12,11 +12,4 @@
 
 ## I'm currently working on:
 
-existing projects' responsiveness
-
-## Techincal Skills:
-
-React: 3/5 </br>
-JavaScript: 3.5/5 </br>
-CSS: 4/5 </br>
-HTML: 4/5 </br>
+Trading Journal Authentication
