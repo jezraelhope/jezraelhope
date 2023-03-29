@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hope!</h1>
 <h3 align="center">I am a self-taught web developer from Chicago!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jezraelhope&label=Profile%20views&color=0e75b6&style=flat" alt="jezraelhope" /> </p>
-
 - 🔭 I’m currently working on **Trading Journal Authentication & DM Assistant using ChatGPT with some amazing people**
 
 - 💬 Ask me about **React, JavaScript, My favorite Silmarillion chapter**
