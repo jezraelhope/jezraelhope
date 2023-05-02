@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hope!</h1>
 <h3 align="center">I am a self-taught web developer from Chicago!!</h3>
 
-- 🔭 I’m currently working on **Trading Journal Authentication & [Boole Bots with](https://github.com/chingu-voyages/voyage-project-tier2-boolebots) some amazing people**
+- 🔭 I’m currently working on **Trading Journal Authentication & [Boole Bots](https://github.com/chingu-voyages/voyage-project-tier2-boolebots) with some amazing people**
 
 - 💬 Ask me about **React, JavaScript, My favorite Silmarillion chapter**
 
