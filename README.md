@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trading Journal Authentication & [Boole Bots](https://github.com/chingu-voyages/voyage-project-tier2-boolebots) with some amazing people**
 
-- 💬 Ask me about **React, JavaScript, My favorite Silmarillion chapter**
+- 💬 Ask me about **React, JavaScript, CSS**
 
 - 📫 How to reach me **jezraelhope@gmail.com**
 
